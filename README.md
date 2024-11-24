@@ -19,13 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot%202024-11-24%20at%2017-52-43%20Frontend%20Mentor%20QR%20code%20component.png)
+![](./images/Screenshot%202024-11-24%20at%2018-39-59%20Frontend%20Mentor%20QR%20code%20component.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/mehedihasanit12/qr-code-component-challenge)
+- Live Site URL: [Add live site URL here](https://mehedihasanit12.github.io/qr-code-component-challenge/)
 
 ## My process
 
